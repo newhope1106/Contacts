@@ -1,4 +1,4 @@
 Contacts
 ========
 
-a simple contacts app
+a simple contacts app based on Android
